@@ -4,6 +4,7 @@
 
 ## 링크
 
+- [Secret GIST](https://gist.github.com/)
 - [Lucas 학습 링크](https://lucas.codesquad.kr/)
 - [2021 마스터즈 멤버즈 백엔드 현황판](https://docs.google.com/spreadsheets/d/1bV4nfmXJZX2wn8gZaeHanjxcqV2ipaqp01sLvixse94/edit#gid=0)
 - [2021 마스터즈 CS10 가이드](https://docs.google.com/presentation/d/1qMxZjLbN_XA9vbKP4ANPDb71nq6cUU63-ikNXi_o2OY/edit)
