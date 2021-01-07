@@ -6,6 +6,7 @@
 
 - [BE #4](https://zoom.us/j/7469740699?pwd=bWR6OVBVRmdLWUdJVFVGMXIzOGsvZz09) (그룹 회의실)
 - [iOS #1](https://zoom.us/j/6239506083?pwd=YjZ4OUQxclhRWmZwdGZQdDdWamFWQT09) (수업 회의실)
+- [BE #1](https://zoom.us/j/4643257853?pwd=eDJXOHQ2a3dMdzhteHhMR0lVZUNnUT09) (수업 회의실)
 
 ## 링크
 
