@@ -2,6 +2,10 @@
 
 코드 스쿼드 웹 백엔드 마스터즈 코스를 진행하며 공유하고 싶은 정보를 위한 레포
 
+## 수업 질문
+
+- [Slido](https://app.sli.do/event/wug16zoh/live/questions)
+
 ## Zoom 링크
 
 - [iOS #1 (수업 회의실)](https://zoom.us/j/6239506083?pwd=YjZ4OUQxclhRWmZwdGZQdDdWamFWQT09)
